@@ -1,8 +1,6 @@
-
-
 ### echo 'Hello World'
 
-Olá! sou o Wendel e este é o meu perfil :)
+Olá! sou o Wendel e este é o meu perfil :)<br/>
 Atualmente sou estudante de Sistemas de Informação na Universidade Federal de Itajubá e um aspirante a Desenvolvedor Full Stack!
 
 ### Tecnologias
